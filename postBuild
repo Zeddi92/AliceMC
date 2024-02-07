@@ -1,0 +1,3 @@
+wget -q -O data_PbPb.csv "https://cernbox.cern.ch/remote.php/dav/public-files/Tb2BlIYcfuwkTGS/data_PbPb.csv"
+wget -q -O data_pp.csv "https://cernbox.cern.ch/remote.php/dav/public-files/uaRKNEMfUXheR6d/data_pp.csv"
+
