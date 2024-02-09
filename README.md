@@ -11,3 +11,10 @@ Einleitung (Uni Münster): [![Binder](https://binderhub.uni-muenster.de/badge_lo
 Masterclass (Uni Münster): [![Binder](https://binderhub.uni-muenster.de/badge_logo.svg)](https://binderhub.uni-muenster.de/v2/gh/Zeddi92/AliceMC/HEAD?filepath=Masterclass_08_02.ipynb)
 
 Lösung (Uni Münster): [![Binder](https://binderhub.uni-muenster.de/badge_logo.svg)](https://binderhub.uni-muenster.de/v2/gh/Zeddi92/AliceMC/HEAD?filepath=Masterclass_08_02_Solved.ipynb)
+
+
+
+
+Alternative für die Teilnehmenden: [![Binder](https://binderhub.uni-muenster.de/badge_logo.svg)](https://binderhub.uni-muenster.de/v2/gh/NTW-Muenster/alice-mc-raa.git/HEAD?filepath=ALICE_RAA.ipynb)
+
+Alternative für die Mods: [![Binder](https://binderhub.uni-muenster.de/badge_logo.svg)](https://binderhub.uni-muenster.de/v2/gh/NTW-Muenster/alice-mc-raa.git/HEAD?filepath=ALICE_RAA_Moderation.ipynb)
